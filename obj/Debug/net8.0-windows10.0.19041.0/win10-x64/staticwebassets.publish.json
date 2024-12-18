@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "Hash": "xSeAuvMrRww5ORFZ3MWwqGQfQxIojy1Bi94dD9Z8i28=",
-  "Source": "ExpensesManager",
+  "Hash": "F+nt0Q4fsyS1FLf+5UVc5m8Yj8g0g9AyQxoyEuNSddY=",
+  "Source": "Expense&BudgetFlow",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ExpensesManager\\wwwroot",
-      "Source": "ExpensesManager",
+      "Name": "Expense&BudgetFlow\\wwwroot",
+      "Source": "Expense&BudgetFlow",
       "ContentRoot": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ExpensesManager.styles.css",
-      "SourceId": "ExpensesManager",
+      "Identity": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Expense&BudgetFlow.styles.css",
+      "SourceId": "Expense&BudgetFlow",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
-      "RelativePath": "ExpensesManager.styles.css",
+      "RelativePath": "Expense&BudgetFlow.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -33,15 +33,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ExpensesManager.styles.css"
+      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Expense&BudgetFlow.styles.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\ExpensesManager.bundle.scp.css",
-      "SourceId": "ExpensesManager",
+      "Identity": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Expense&BudgetFlow.bundle.scp.css",
+      "SourceId": "Expense&BudgetFlow",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
-      "RelativePath": "ExpensesManager.bundle.scp.css",
+      "RelativePath": "Expense&BudgetFlow.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,11 +52,11 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\ExpensesManager.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Expense&BudgetFlow.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\css\\app.css",
-      "SourceId": "ExpensesManager",
+      "SourceId": "Expense&BudgetFlow",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\",
       "BasePath": "/",
@@ -75,7 +75,7 @@
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "SourceId": "ExpensesManager",
+      "SourceId": "Expense&BudgetFlow",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\",
       "BasePath": "/",
@@ -94,7 +94,7 @@
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "SourceId": "ExpensesManager",
+      "SourceId": "Expense&BudgetFlow",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\",
       "BasePath": "/",
@@ -113,7 +113,7 @@
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\favicon.png",
-      "SourceId": "ExpensesManager",
+      "SourceId": "Expense&BudgetFlow",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\",
       "BasePath": "/",
@@ -132,7 +132,7 @@
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\index.html",
-      "SourceId": "ExpensesManager",
+      "SourceId": "Expense&BudgetFlow",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\",
       "BasePath": "/",

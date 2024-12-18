@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ExpensesManager.styles.css",
-      "PackagePath": "staticwebassets\\ExpensesManager.styles.css"
+      "Id": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Expense&BudgetFlow.styles.css",
+      "PackagePath": "staticwebassets\\Expense&BudgetFlow.styles.css"
     },
     {
       "Id": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\wwwroot\\css\\app.css",
@@ -25,20 +25,20 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.ExpensesManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.Expense&BudgetFlow.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.ExpensesManager.props",
-      "PackagePath": "build\\ExpensesManager.props"
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.Expense&BudgetFlow.props",
+      "PackagePath": "build\\Expense&BudgetFlow.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.ExpensesManager.props",
-      "PackagePath": "buildMultiTargeting\\ExpensesManager.props"
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Expense&BudgetFlow.props",
+      "PackagePath": "buildMultiTargeting\\Expense&BudgetFlow.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.ExpensesManager.props",
-      "PackagePath": "buildTransitive\\ExpensesManager.props"
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.Expense&BudgetFlow.props",
+      "PackagePath": "buildTransitive\\Expense&BudgetFlow.props"
     }
   ],
   "ElementsToRemove": []

@@ -45183,9 +45183,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\ExpensesManager.csproj",
-      "projectName": "ExpensesManager",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\ExpensesManager.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\Expense&BudgetFlow.csproj",
+      "projectName": "Expense&BudgetFlow",
+      "projectPath": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\Expense&BudgetFlow.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\source\\repos\\ExpensesManager\\ExpensesManager\\obj\\",
       "projectStyle": "PackageReference",
